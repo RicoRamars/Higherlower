@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         dThrow = new ArrayList<>();
         mListView = findViewById(R.id.list_view_throws);
+        // test
 
         imageViewDice = findViewById(R.id.image_view_dice);
 
